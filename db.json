@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "title": "Second Post",
+      "content": "This is Second post made by us tttttt in curd app",
+      "id": "8416"
+    },
+    {
+      "title": "Testttt",
+      "content": "testest",
+      "id": "475b"
+    }
+  ]
+}
